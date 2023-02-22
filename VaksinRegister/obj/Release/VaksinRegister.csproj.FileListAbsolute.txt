@@ -1,0 +1,14 @@
+E:\C#\VaksinRegister\VaksinRegister\bin\Release\VaksinRegister.exe.config
+E:\C#\VaksinRegister\VaksinRegister\bin\Release\VaksinRegister.exe.manifest
+E:\C#\VaksinRegister\VaksinRegister\bin\Release\VaksinRegister.application
+E:\C#\VaksinRegister\VaksinRegister\bin\Release\VaksinRegister.exe
+E:\C#\VaksinRegister\VaksinRegister\bin\Release\VaksinRegister.pdb
+E:\C#\VaksinRegister\VaksinRegister\obj\Release\VaksinRegister.csproj.AssemblyReference.cache
+E:\C#\VaksinRegister\VaksinRegister\obj\Release\VaksinRegister.RegisterVaksined.resources
+E:\C#\VaksinRegister\VaksinRegister\obj\Release\VaksinRegister.Properties.Resources.resources
+E:\C#\VaksinRegister\VaksinRegister\obj\Release\VaksinRegister.csproj.GenerateResource.cache
+E:\C#\VaksinRegister\VaksinRegister\obj\Release\VaksinRegister.csproj.CoreCompileInputs.cache
+E:\C#\VaksinRegister\VaksinRegister\obj\Release\VaksinRegister.exe.manifest
+E:\C#\VaksinRegister\VaksinRegister\obj\Release\VaksinRegister.application
+E:\C#\VaksinRegister\VaksinRegister\obj\Release\VaksinRegister.exe
+E:\C#\VaksinRegister\VaksinRegister\obj\Release\VaksinRegister.pdb
